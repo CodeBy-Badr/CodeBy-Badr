@@ -44,5 +44,4 @@
 
 ## 📫 Contact
 - 🌐 email: **badraddineaadou@gmail.com**
-- phone number: **+212690772251**
-- 💼 GitHub: **github.com/badreddinea**
+- 💼 phone number: **+212690772251**
