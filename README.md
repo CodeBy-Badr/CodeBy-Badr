@@ -2,7 +2,7 @@
 <h3 align="center">Web Developer</h3>
 
 <p align="center">
-  HTML • CSS • Bootstrap • Tailwind • JavaScript • PHP • MySQL • Git
+  HTML • CSS • Bootstrap • Tailwind • Typescript • JavaScript • PHP • MySQL • Git
 </p>
 
 ---
